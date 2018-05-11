@@ -1,0 +1,4 @@
+name: Angular Power!
+type: module
+description: This is an example module running angular from the Drupal 8 Cookbook!
+core: 8.x
